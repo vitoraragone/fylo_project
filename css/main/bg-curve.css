@@ -1,0 +1,18 @@
+.bg-curve img {
+  display: block;
+  width: 100%;
+}
+
+.bg-mobile {
+  display: none;
+}
+
+@media (max-width: 450px) {
+  .bg-desktop {
+    display: none;
+  }
+  
+  .bg-mobile {
+    display: block;
+  }
+}

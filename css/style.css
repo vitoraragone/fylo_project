@@ -1,0 +1,26 @@
+/* global */
+@import url("./global/global.css");
+
+/* header */
+@import url("./header/header.css");
+
+/* main */
+@import url("./main/section-1.css");
+@import url("./main/section-2.css");
+@import url("./main/bg-curve.css");
+
+/* early-access */
+@import url("./early-access/early-access.css");
+
+/* footer */
+@import url("./footer/footer.css");
+
+
+
+
+
+
+
+
+
+
